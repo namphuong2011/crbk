@@ -78,6 +78,19 @@
           "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/princess2"}
       ]
     },
+        {
+      "title": "Robot - Transformer",
+      "details":[
+        {"title":"transformer1",
+          "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/transformer1"}
+        ,
+        {"title":"transformer2",
+          "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/transformer2"}
+                ,
+        {"title":"transformer3",
+          "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/transformer3"}
+      ]
+    },
     {
       "title": "Dragon",
       "details":[
