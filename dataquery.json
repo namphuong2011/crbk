@@ -64,20 +64,12 @@
         {
       "title": "Natural Scene",
       "details":[
-        {"title":"naturalscene2",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/naturalscene2"}
-        ,
                 {"title":"naturalscene3",
           "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/naturalscene3"}
         ,
-                {"title":"naturalscene4",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/naturalscene4"}
-        ,
                 {"title":"naturalscene5",
           "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/naturalscene5"}
-        ,
-                {"title":"naturalscene6",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/naturalscene6"}
+  
         ,
                 {"title":"naturalscene7",
           "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/naturalscene7"}
@@ -87,9 +79,6 @@
         ,
                 {"title":"naturalscene9",
           "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/naturalscene9"}
-        ,
-                {"title":"naturalscene10",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/crbk/master/naturalscene10"}
 
       ]
     },
