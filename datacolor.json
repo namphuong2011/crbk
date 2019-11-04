@@ -1,0 +1,61 @@
+{
+  "dataacolor": [
+    {
+      "title": "skin anime",
+      "detail": "#f2e8c8 #fbdab9 #9c754d #724b31 #584830 #ffe9dc #e0a899 #dfa290 #c99789 #ae7c69"
+    },
+    {
+      "title": "summer",
+      "detail": "#790105 #ffc5c8 #fe9702 #fea87d #d90011 #f4faa5 #8cb4ed #a7feb2 #f8a6f4 #ffaf8a"
+    },
+    {
+      "title": "blue",
+      "detail": "#011f4b #03396c #005b96 #6497b1 #b3cde0"
+    },
+    {
+      "title": "red",
+      "detail": "#ff0000 #ff1919 #ff3232 #ff4c4c #ff6666 #ff7f7f #ff9999 #ffb2b2 #ffcccc #ffe5e5 #ffffff"
+    }
+  ,
+    {
+      "title": "yellow",
+      "detail": "#ffc600 #ffdf00 #fff100 #daff00 #b7ff00 #fff4b2 #f6e57c #fbe042 #fbd803 #f0c43d"
+    }
+  ,
+    {
+      "title": "orange",
+      "detail": "#ff7e02 #ffa300 #ff5600 #ffd700 #dd7000 #ffeda1 #ffd18b #ffb76d #ffa264 #ff875f"
+    }
+  ,
+    {
+      "title": "green",
+      "detail": "#87d3b5 #afe689 #82de94 #46cf76 #53b332 #0a2707 #3e611a #7aa34a #97bf7a"
+    }
+  ,
+    {
+      "title": "cyan",
+      "detail": "#d8f2f6 #8bd9ef #3ec1d5 #319aaa #25737f #c1e7f2 #87c3d4 #4c8ea1 #336f81 #15424f"
+    }
+  ,
+    {
+      "title": "blue",
+      "detail": "#001d64 #002473 #003083 #006abc #0098f1 #bbd7ff #94b1ee #629ee1 #4180d8 #265ca7"
+    }
+  ,
+    {
+      "title": "purple",
+      "detail": "#7d36ba #7b49bd #8161d0 #a481e7 #d7a8ff #49056f #620596 #8709ce #a80fff #c560ff"
+    }
+  ,
+    {
+      "title": "brown",
+      "detail": "#674c4c #835b5b #a17b72 #b48b81 #d6b6a0 #c96e15 #ba661d #974617 #6f2f14 #371a12"
+    }
+  ,
+    {
+      "title": "black",
+      "detail": "#000a12 #263238 #4f5b62 #37474f #102027 #656565 #4d4d4d #363535 #222222 #000000"
+    }
+  ]
+}
+
